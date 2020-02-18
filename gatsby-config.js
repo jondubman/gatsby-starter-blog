@@ -4,7 +4,10 @@ module.exports = {
     author: `Jonathan Dubman`,
     description: `Blog TBD`,
     siteUrl: `https://www.dubman.com`,
-    social: [],
+    social: [{
+      name: `GitHub`,
+      url: `https://github.com/jondubman`,
+    }],
   },
   plugins: [
     {
