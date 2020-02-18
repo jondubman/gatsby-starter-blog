@@ -4,8 +4,6 @@ module.exports = {
     author: `Jonathan Dubman`,
     description: `Blog TBD`,
     siteUrl: `https://www.dubman.com`,
-    social: {
-    },
   },
   plugins: [
     {
